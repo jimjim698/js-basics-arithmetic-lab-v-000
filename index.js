@@ -10,4 +10,4 @@ You should NOT try to redefine any of the above variables.
 
 newID = oldID +1000000000
 ageIsValid = Number.isInteger(currentAge)
-randomNumber = Math.random() *20
+randomInteger = Math.random() *20
